@@ -31,6 +31,20 @@ Analyse Netflix's content library using Power BI to explore trends in genres, ra
 •	Merge all columns into the table to make dynamic dashboard.
 ## Dashboard:
 ![Image](https://github.com/user-attachments/assets/8c48bc82-892f-43e4-92b5-c016ab608996)
+## Key Insights:
+•	The dataset contains a total of 8,809 titles.
+
+•	Content breakdown into Movies & TV shows.
+
+•	Netflix hosts significantly more movies than TV shows.
+
+•	It shows the rating distribution, Genre Popularity, Total directors based on the movies and TV shows.
+
+•	A world map visual shows Netflix's content sources across countries.
+## Final Conclusion:
+Netflix's content library is dominated by movies, primarily from the US and India, with a strong focus on Drama and Comedy genres. Most content caters to mature audiences, and recent years have seen a sharp rise in new releases, indicating Netflix's growing investment in fresh content.
+
+
 
 
 
