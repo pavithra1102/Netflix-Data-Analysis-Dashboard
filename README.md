@@ -1,6 +1,8 @@
 # Netflix Shows & Dramas (Interactive Dashboard Using MS Excel & Power Query)
 ## Project Objective:
 Analyse Netflix's content library using Power BI to explore trends in genres, ratings, and release years. Created interactive visuals to understand viewer preferences and global content distribution. 
+## Dataset Used:
+<a href="https://github.com/pavithra1102/Netflix-Data-Analysis-Dashboard/blob/main/netflix_titles.xls">Dataset</a>
 ## Questions(KPIs):
 •	How many total titles are available on Netflix?
 
