@@ -1,2 +1,3 @@
-# Netflix-Data-Analysis-Dashboard
- I developed a comprehensive project in power bi, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+# Netflix Shows & Dramas (Interactive Dashboard Using MS Excel & Power Query)
+## Project Objective:
+Analyse Netflix's content library using Power BI to explore trends in genres, ratings, and release years. Created interactive visuals to understand viewer preferences and global content distribution. 
