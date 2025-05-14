@@ -21,8 +21,6 @@ Analyse Netflix's content library using Power BI to explore trends in genres, ra
 •	How has content production changed over the years?
 
 •	Which year had the highest number of releases?
-## Dashboard:
-<a href="https://github.com/pavithra1102/Netflix-Data-Analysis-Dashboard/blob/main/Netflix.pdf">Dashboard</a>
 ## Process:
 •	 Verify data for any missing values and anomalies, and sort out the same.
 
@@ -31,7 +29,8 @@ Analyse Netflix's content library using Power BI to explore trends in genres, ra
 •	Create columns according to the questions asked.
 
 •	Merge all columns into the table to make dynamic dashboard.
-
+## Dashboard:
+file:///E:/Power%20bi/Netflix.pdf
 
 
 
