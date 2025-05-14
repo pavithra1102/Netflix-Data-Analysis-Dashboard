@@ -30,6 +30,7 @@ Analyse Netflix's content library using Power BI to explore trends in genres, ra
 
 •	Merge all columns into the table to make dynamic dashboard.
 ## Dashboard:
+![Image](https://github.com/user-attachments/assets/8c48bc82-892f-43e4-92b5-c016ab608996)
 
 
 
