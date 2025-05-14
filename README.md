@@ -21,6 +21,15 @@ Analyse Netflix's content library using Power BI to explore trends in genres, ra
 •	How has content production changed over the years?
 
 •	Which year had the highest number of releases?
+## Process:
+•	 Verify data for any missing values and anomalies, and sort out the same.
+
+•	Make sure data is consistent and clean with respect to data type, data format and values used.
+
+•	Create columns according to the questions asked.
+
+•	Merge all columns into the table to make dynamic dashboard.
+
 
 
 
